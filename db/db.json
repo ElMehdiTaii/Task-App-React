@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 9,
-      "Name": "Stone",
-      "UserName": "3577290818118451",
-      "Type": "Often"
-    },
-    {
       "id": 11,
       "Name": "Plexiglass",
       "UserName": "5100136278272653",
@@ -35,36 +29,6 @@
       "Name": "Steel",
       "UserName": "3531140427889551",
       "Type": "Often"
-    },
-    {
-      "id": 16,
-      "Name": "Brass",
-      "UserName": "3541725162044418",
-      "Type": "Weekly"
-    },
-    {
-      "id": 17,
-      "Name": "Granite",
-      "UserName": "3535790559307172",
-      "Type": "Often"
-    },
-    {
-      "id": 18,
-      "Name": "Stone",
-      "UserName": "503800794522159410",
-      "Type": "Often"
-    },
-    {
-      "id": 19,
-      "Name": "Glass",
-      "UserName": "491187434164873744",
-      "Type": "Seldom"
-    },
-    {
-      "id": 20,
-      "Name": "Granite",
-      "UserName": "6761443013693294",
-      "Type": "Seldom"
     }
   ]
 }
