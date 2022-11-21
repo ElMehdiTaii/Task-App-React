@@ -78,6 +78,9 @@ const TaskList = () => {
         <div className="col-3">
           <button className="btn btn-primary">
             Create Task
+          </button>&nbsp;
+          <button className="btn btn-primary" onClick={() => setHideList(!hideList)}>
+            Back To List
           </button>
         </div>
       </div>
