@@ -4,7 +4,7 @@
       "id": 11,
       "Name": "Plexiglass",
       "UserName": "5100136278272653",
-      "Type": "Daily"
+      "Type": "Lehdi"
     },
     {
       "id": 12,
@@ -25,10 +25,10 @@
       "Type": "Often"
     },
     {
-      "id": 15,
-      "Name": "Steel",
-      "UserName": "3531140427889551",
-      "Type": "Often"
+      "id": 0.025123925012517034,
+      "Name": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value",
+      "UserName": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value",
+      "taskType": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value"
     }
   ]
 }
