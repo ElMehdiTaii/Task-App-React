@@ -6,7 +6,6 @@ const Apis = axios.create({
 
 export const getTasks = async () => {
     const response = await Apis.get("/tasks")
-    console.log(Apis)
     return response.data
 };
 
