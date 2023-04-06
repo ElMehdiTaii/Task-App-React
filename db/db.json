@@ -23,12 +23,6 @@
       "Name": "Brass",
       "UserName": "3576884802508692",
       "Type": "Often"
-    },
-    {
-      "id": 0.025123925012517034,
-      "Name": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value",
-      "UserName": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value",
-      "taskType": "Name: taskName.current.value, UserName: taskAssignedTo.current.value, taskType: taskType.current.value"
     }
   ]
 }
